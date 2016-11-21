@@ -1,5 +1,5 @@
 {
-    "name": "friendsofcake/cakephp-csvview",
+    "name": "holisticnetworking/cakephp-csvview",
     "description": "A CSV View class for CakePHP 3.x",
     "type": "cakephp-plugin",
     "keywords": [
@@ -8,7 +8,7 @@
         "view",
         "export"
     ],
-    "homepage": "http://github.com/friendsofcake/cakephp-csvview",
+    "homepage": "http://github.com/holisticnetworking/cakephp-csvview",
     "license": "MIT",
     "authors": [
         {
@@ -41,6 +41,11 @@
             "name":"Gregory Gaskill",
             "role":"Contributor",
             "homepage":"https://github.com/chronon"
+        }
+        {
+            "name":"Tom Belknap",
+            "role":"Contributor",
+            "homepage":"https://github.com/holisticnetworking"
         }
     ],
     "require": {
